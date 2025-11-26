@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/hanaas186/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hana-sato-239787331/
+    - icon: envelope
+      text: Email
+      href: "mailto:has103@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Hi! Thank you for passing by my webpage!
+
+I am Hana Sato, a third year undergraduate student at Case Western Reserve University (CWRU) in Ohio, USA. I am a biochemistry B.S. and political science B.A. candidate. For my biochemistry degree, I have concentrations in infectious diseases and structural and computational biochemistry. For my political science degree, while not a school-official concentration, I have placed emphasis on taking courses about international politics.
+
+Beyond my school courses, I have also been engaged with research. From my first semester at CWRU until my third semester I worked as an undergraduate researcher under the supervision of Dr. Jill Yang, then a post-doctoral fellow in the CWRU Social Justice Institute. And starting from my fourth semester at CWRU, I started working as a researcher in the Lewin Lab, a microbiology lab. I greatly enjoy asking big questions and actively work hard to answer them. Because of this, I am interested in applying to graduate school programs to ultimately obtain a PhD degree. My interests lie on global health and epidemiology, where I will be able to participate in both wet lab experiments as well as computational analyses.
+
+Outside of academics and research, I enjoy film photography, spending time in nature and helping people to learn Japanese and/or Spanish! Having Japanese heritage while being born and raised in Guatemala, I value cultural diversity and awareness. I often find myself wanting to share about my cultural heritage as well as listen to other people's cultural backgrounds.
+
+Again, thank you so much for visiting my webpage!
+
+Please feel free to [contact me](mailto:has103@case.edu) if you have any questions or simply would like to chat with me!
+
+
