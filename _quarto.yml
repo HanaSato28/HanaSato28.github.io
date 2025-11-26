@@ -19,7 +19,7 @@ website:
       - text: "CV"
         href: cv/index.qmd
       - text: "Hobbies & Interests"
-        href: photogtaphy/index.qmd
+        href: photography/index.qmd
 
     
     # your social media handles
@@ -65,3 +65,4 @@ format:
     reference-location: margin
 
     footnotes-hover: true
+
