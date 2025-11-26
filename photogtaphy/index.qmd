@@ -1,0 +1,58 @@
+---
+title: "Hobbies and Interests"
+---
+
+Beyond academic and research work, I enjoy finding new hobbies. Since little I have loved reading, and lately I have acquired more interest in non-fiction books. Encouraged by a friend, this year I started taking photos with a Kodak Ektar H35 film camera and I have enjoyed it so much! While I wouldn't count it as a hobby, I am a very picky eater and I am in love with yummy food. So I usually spend big chunks of my days cooking meals. I will take advantage of this space to show off some of my best recipes!
+
+# Film photos!
+
+::: {layout-ncol=2}
+
+![](rollphoto1.jpg)
+
+![](rollphoto2.jpg)
+
+![](rollphoto3.jpg)
+
+![](rollphoto4.jpg)
+
+:::
+
+::: {layout-ncol=1}
+
+![](rollphoto5.jpg)
+
+![](rollphoto6.jpg)
+
+:::
+
+# Cooking!
+
+::: {layout-ncol=2}
+
+![](pizza.jpg)
+
+![](Oyakodon.jpg)
+
+![](ramen.jpg)
+
+![](bibimba.jpg)
+
+
+:::
+
+# Book Recommendations!
+
+<div style="float: right; margin-left: 20px; width: 200px;">
+  <img src="book.jpg" style="width:100%; border-radius: 4px;">
+</div>
+
+* *No Time to Lose: A Life in Pursuit of Deadly Viruses* by Peter Piot
+
+* *The Great Passage* by Shion Miura
+
+* Any book written by Maha Harada
+
+* *The Door Into Summer* by Robert A. Heinlein
+
+* *Cold War Resistance: The International Struggle for Antibiotics* by Marc Landas
